@@ -11,7 +11,7 @@ The scripts are uploaded in 2 versions: maual entry of the weekly shedule and au
 >>> fill in shift start times' variables on lines 1059-1065
 >>> fill in the shift schedule as per assigned numbers as values of the variables on lines 6-21.  
 >>> deploy the script on the android OS device and run it. 
-3) For the script with automatic loading of the shift schedule as a txt file 
+3) For the script with automatic loading of the shift schedule as a txt file:
 >>> find and replace NameUser01-NameUser10 with names of up to 10 persons in the on-call scheme. 
 >>> fill in the telephone numbers'variables on lines 19-28
 >>> fill in the correct codes for the morning, afternoon and night shift and the code for Saturday/weekend shift on lines 3-6
